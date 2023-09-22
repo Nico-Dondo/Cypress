@@ -1,3 +1,4 @@
+
 export class HomePage {
     constructor() {
         this.cerrar = '#closeModal'
