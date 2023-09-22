@@ -1,8 +1,8 @@
-import { HomePage } from "../../support/Pages/homePage";
-import { ProductsPage } from "../../support/Pages/productsPage";
-import { ShoppingCart } from "../../support/Pages/shoppingCart";
-import { Checkout } from "../../support/Pages/checkOut";
-import { FinalDescription } from "../../support/Pages/recipt";
+import { HomePage } from "../../support/Pages/homePageage";
+import { ProductsPage } from "../../support/Pages/productsPageage";
+import { ShoppingCart } from "../../support/Pages/shoppingCartart";
+import { Checkout } from "../../support/Pages/checkOutOut";
+import { FinalDescription } from "../../support/Pages/reciptipt";
 
 describe('Ingresar a la URL con datos válidos y redireccionar', () => {
     let usuario;
