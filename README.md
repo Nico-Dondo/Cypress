@@ -7,7 +7,6 @@
 ## Configuracion para correr el test en cypress.config con: npm test
 ## Pagina oficial de Cypress: https://www.cypress.io/
 # EntregaFinal
-# EntregaFinal
-# EntregaFinal
+
 # FinalCypress
 # Cypress
